@@ -109,6 +109,7 @@ p {
   color: #ffffff;
 }
 
+/* sets bottom margin of right side section */
 .benefit-brand {
   margin-bottom: 32px;
   color: #ffffff;
@@ -134,6 +135,7 @@ p {
   text-align: center;
 }
 
+/* sets right side column images margin and width */
 .benefit-lead img {
   display: block;
   margin: 10px auto;
@@ -182,6 +184,7 @@ p {
   color: #ffffff;
 }
 
+/* sets sizing height of image */
 .search-engine-optimization img {
   max-height: 200px;
 }
@@ -209,7 +212,7 @@ p {
   font-size: 36px;
 }
 
-.footer {
+footer {
   /* sets footer padding size*/
   padding: 30px;
   clear: both;
@@ -219,7 +222,6 @@ p {
   text-align: center;
 }
 
-/* sets footer font size */
-.footer h3 {
+footer h3 {
   font-size: 20px;
 }
